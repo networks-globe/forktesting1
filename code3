@@ -1,5 +1,9 @@
 this is code3
 <<<<<<< HEAD
+<<<<<<< HEAD
 new changes for code3
 =======
 >>>>>>> 6cdefc3 (first commit for stash)
+=======
+new changes for code3
+>>>>>>> 21faff0 (commit for old project)
