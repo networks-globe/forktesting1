@@ -1,2 +1,5 @@
 this is code3
+<<<<<<< HEAD
 new changes for code3
+=======
+>>>>>>> 6cdefc3 (first commit for stash)
