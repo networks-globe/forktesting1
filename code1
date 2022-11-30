@@ -1,5 +1,13 @@
 this is code1
+<<<<<<< HEAD
 this is code2
 this is code3
 this is code4
 this is code5
+=======
+<<<<<<< HEAD
+2nd line
+=======
+chnages from branch1
+>>>>>>> 9f67b3a (commit from branch1)
+>>>>>>> 1fc4b68 (commit from branch1)
